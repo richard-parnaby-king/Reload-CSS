@@ -3,7 +3,7 @@
 
     "name": "Reload CSS",
     "short_name": "Reload CSS",
-    "description": "A developer tool that adds a button to reload only css stylesheets. It does this by appending a timestamp to the css file path, e.g. `/path/to/file.css` into `/path/to/file.css?7123654789`",
+    "description": "A developer tool that adds a button to reload only css stylesheets.",
     "version": "1",
 	"author":"Richard Parnaby-King",
 	"homepage_url": "https://github.com/richard-parnaby-king/Reload-CSS",

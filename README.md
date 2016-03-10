@@ -5,7 +5,7 @@ A developer tool that adds a button to reload only css stylesheets. It does this
 
 ## Installation
 
-The extension can be installed directly from the <a href="https://chrome.google.com/webstore/detail/external-followed-link-hi/ldppbkmjichlgoknicpibbekkajojclb">Chrome Store</a>
+The extension can be installed directly from the <a href="https://chrome.google.com/webstore/detail/reload-css/ojbbeapndipcgcjgmlelgbgmmalhjkef">Chrome Store</a>
 
 ## Usage
 
